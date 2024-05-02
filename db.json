@@ -1,0 +1,205 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Hamad Nadeem",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithamaon",
+      "password": "dssd",
+      "id": 5
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "sdsd",
+      "id": 6
+    },
+    {
+      "name": "Hamad Khan",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "sdsd",
+      "id": 7
+    },
+    {
+      "name": "Hamad N",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "sd",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "Hamad",
+      "email": "s",
+      "message": "dsa",
+      "id": 10
+    },
+    {
+      "name": "Hamad Contact",
+      "email": "hamwithContact@gmail.com",
+      "message": "jsalkjdalks",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 12
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "http://localhost:3000/posts",
+      "id": 13
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 14
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "sdsa",
+      "id": 15
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas    alert(\"Data Successfully Save...!\");",
+      "id": 16
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithamaon",
+      "message": "sdasd",
+      "id": 17
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "How are you",
+      "id": 18
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "hwe",
+      "id": 19
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas    alert(\"Data Successfully Save...!\");",
+      "id": 20
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "dasd",
+      "id": 21
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas    alert(\"Data Successfully Save...!\");",
+      "id": 22
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "dsfsd",
+      "id": 23
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 24
+    },
+    {
+      "name": "Hamad ",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "How are you",
+      "id": 25
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 26
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "How are you Bro",
+      "id": 27
+    },
+    {
+      "name": "Babar",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 28
+    },
+    {
+      "name": "Babar",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 29
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "How ar eyou",
+      "id": 30
+    },
+    {
+      "name": "Hamad",
+      "email": "hamwithfacbook@gmail.com",
+      "message": "How are You",
+      "id": 31
+    },
+    {
+      "name": "Rizwan",
+      "email": "hamwithfacbook@gmail.com",
+      "password": "hahjsas",
+      "id": 32
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
